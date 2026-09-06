@@ -1,10 +1,22 @@
 # Ameshousing_AI_project
 
-This repository is a project for an introductory Artificial Intelligence class.
+این ریپازیتوری برای پروژه درسی AI foundation آماده شده است.
 
-I want to use the Ames Housing dataset and ultimately predict house prices using the model we build.
+قرار است روی دیتابیس AmesHousing کار کنیم که شامل تعداد زیادی خانه در یک شهر است و در نهایت یک مدلی طراحی کنیم که بتواند قیمت خانه را پیشبینی کند.
 
-The goal of this project is to learn how to use the Pandas, NumPy, Matplotlib, and Scikit-learn libraries, as well as to gain an understanding of linear regression and supervised learning in machine learning.
+هدف این پروژه، یادگیری نحوه استفاده از کتابخانه‌های Pandas، NumPy، Matplotlib و Scikit-learn و همچنین درک مفاهیم رگرسیون خطی و یادگیری نظارت‌شده در حوزه یادگیری ماشین است.
+
+***ساختار پروژه:***
+
+فاز ۱: آماده‌سازی و کاوش داده‌ها(Preprocessing & Data Exploration)
+
+فاز ۲: مهندسی و انتخاب ویژگی‌ها (Feature Engineering & Selection)
+
+فاز ۳: ساخت و آموزش مدل (Model Training)
+
+فاز ۴: ارزیابی و تفسیر نتایج (Model Evaluation & Interpretation)
+
+
 
 *alireza hoseini*
 
