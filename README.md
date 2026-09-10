@@ -4,10 +4,18 @@
   <h1>🏡 مدل ارزیابی خودکار و پیش‌بینی هوشمند قیمت مسکن (Ames Housing AVM)</h1>
   <p><strong>طراحی سیستم تخمین قیمت املاک مبتنی بر یادگیری ماشین | پروژه درس هوش مصنوعی مقدماتی (AI Foundation)</strong></p>
   <p>
+  <a href="https://www.w3schools.com/python/default.asp" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://www.w3schools.com/python/numpy/default.asp" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20NumPy-150458" alt="Pandas & NumPy">
-    <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  </a>
+  <a href="https://www.tutorialspoint.com/scikit_learn/scikit_learn_introduction.htm" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com/python/matplotlib_intro.asp" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-2B5B84" alt="Visualization">
+  </a>
   </p>
 </div>
 
